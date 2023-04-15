@@ -21,7 +21,10 @@ As a web developer with 2 years of experience in HTML and CSS, my Github profile
                   ### Socials
                   
                   
-                <p align="left">
+                <p align="left">s
+                
+                
+                <a href="https://app.daily.dev/sabali11"><img src="https://api.daily.dev/devcards/7cb0925f5dcb4be19cdd468333db7cf3.png?r=18t" width="400" alt="Ojo Oluwaseyi's Dev Card"/></a>
                           
                       <a href="https://www.dribbble.com/sabali11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>
                           
